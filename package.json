@@ -1,0 +1,22 @@
+{
+  "name": "koopmanschilderwerken",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "http-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karmibrahim/koopmanschilderwerken.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karmibrahim/koopmanschilderwerken/issues"
+  },
+  "homepage": "https://github.com/karmibrahim/koopmanschilderwerken#readme",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
