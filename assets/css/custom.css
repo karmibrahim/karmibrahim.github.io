@@ -23,13 +23,12 @@ swiper-slide .slide-content {
 }
 
 #beerSlider {
-    width: 80vh;
+    max-width: 80vh;
     max-height: 80vh;
     display: block;
     margin: 0 auto;
 }
 #beerSlider img {
-    width: 100%;
 }
 
 #floating-contact {
@@ -56,4 +55,8 @@ swiper-slide .slide-content {
 #floating-contact a svg {
     width: 2em;
     height: 2em;
+}
+
+footer {
+    text-align: center;
 }
