@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "http-server"
+    "dev": "node live-reload.js"
   },
   "repository": {
     "type": "git",
@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/karmibrahim/koopmanschilderwerken#readme",
   "devDependencies": {
-    "http-server": "^14.1.1"
+    "connect": "^3.7.0",
+    "livereload": "^0.9.3",
+    "serve-static": "^1.15.0"
   }
 }
