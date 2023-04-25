@@ -23,8 +23,8 @@ swiper-slide .slide-content {
 }
 
 #beerSlider {
-    max-width: 80vh;
-    max-height: 80vh;
+    max-width: 120vh;
+    max-height: 120vh;
     display: block;
     margin: 0 auto;
 }
